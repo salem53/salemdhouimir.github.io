@@ -21,6 +21,14 @@
   background: #9575cd;
   color: floralwhite;
 }
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
+.navbar-dark {
+  background-color: #512da8;
+}
 
 address {
   font-size: 80%;
